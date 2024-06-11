@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/logo.png"
+logo = "/media/logo.png"
+image = "/media/hund-klein.jpg"
 color = "#5a4ae3"
 +++
